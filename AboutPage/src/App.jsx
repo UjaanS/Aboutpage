@@ -60,7 +60,13 @@ function Services() {
       <p>
         We have a passionate team of professionals who work tirelessly to make sure our users get the best experience.
       </p>
-      
+      <h2> </h2>
+      <h2> </h2>
+      <h2> </h2>
+      <h2> </h2>
+      <h2> </h2>
+      <h2> </h2>
+      <h2> </h2>
       
     </div>
 
