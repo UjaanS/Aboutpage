@@ -59,12 +59,12 @@ function Services() {
       <h1>Our Team</h1>
       <p>
         We have a passionate team of Students who work tirelessly to make this website usable:
-        <li>
-          <ul>Ujaan Sen</ul>
-          <ul>Aditya Thakur</ul>
-          <ul>Jiya</ul>
-          <ul>Simran Nayak</ul>
-        </li>
+        <ul>
+          <li>Ujaan Sen</li>
+          <li>Aditya Thakur</li>
+          <li>Simran Nayak</li>
+          <li>Jiya</li>
+        </ul>
       </p>
       <br />
       <br />
