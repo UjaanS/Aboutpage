@@ -47,7 +47,7 @@ function Services() {
        <div className="about-container">
       <h1>About Us</h1>
       <p>
-        Welcome to our website! We are dedicated to providing the best services to our community.
+        Welcome to our website! We are a group of students attending a hackathon for the first time ever! Though we lack a lot of experience and skill, we makeup for it with our effort. We feel strongly about the farmers of India.
       </p>
       <p>
         Our mission is to help people by offering various solutions tailored to their needs. We value quality, integrity, and customer satisfaction.
@@ -75,7 +75,7 @@ function Services() {
       <br />
       <br />
       <br />
-      
+
 
       
     </div>
