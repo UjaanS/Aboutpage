@@ -47,7 +47,7 @@ function Services() {
        <div className="about-container">
       <h1>About Us</h1>
       <p>
-        Welcome to our website! We are a group of students attending a hackathon for the first time ever! Though we lack a lot of experience and skill, we makeup for it with our effort. We feel strongly about the farmers of India and their mental health. Thus we have come up with this platform to give them a one stop platform to help them out with their many struggles in life.
+        Welcome to our website! We are a group of students creating this project for our Artificial Intelligence class! Though we lack a lot of experience and skill, we makeup for it with our effort. We feel strongly about the farmers of India and their mental health. Thus we have come up with this platform to give them a one stop platform to help them out with their many struggles in life.
       </p>
       <p>
         Our mission is to help farmers by educating them, helping them strategize their finances, and providing them with mental health support.
@@ -61,9 +61,8 @@ function Services() {
         We have a passionate team of Students who work tirelessly to make this website usable:
         <ul>
           <li>Ujaan Sen</li>
-          <li>Aditya Thakur</li>
-          <li>Simran Nayak</li>
-          <li>Jiya</li>
+          <li>Pawan Varma</li>
+          <li>Abhimanyu Biswas</li>
         </ul>
       </p>
       <br />
